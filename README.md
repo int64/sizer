@@ -3,10 +3,6 @@ Sizer
 
 Scale image by clicking on it to real image size or to window size
 
-##Dependings
-
-jQuery 1.7+
-
 ##Usage
 
 Just call `sizer` function with source image element and options (optional) as params. 
